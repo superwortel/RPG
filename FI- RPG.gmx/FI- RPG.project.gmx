@@ -5,13 +5,18 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_button</sprite>
+  </sprites>
   <backgrounds name="background">
     <background>background\tiles_floors</background>
     <background>background\tiles_shadows</background>
     <background>background\tiles_walls</background>
   </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_button</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\RM_intro</room>
     <room>rooms\RM_1</room>
