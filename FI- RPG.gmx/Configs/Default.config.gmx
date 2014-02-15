@@ -12,7 +12,7 @@
     <option_android_amazon_gc_leaderboards>-1</option_android_amazon_gc_leaderboards>
     <option_android_amazon_gc_whispersync>0</option_android_amazon_gc_whispersync>
     <option_android_amazon_iap>0</option_android_amazon_iap>
-    <option_android_apk_expansion>false</option_android_apk_expansion>
+    <option_android_apk_expansion>0</option_android_apk_expansion>
     <option_android_arch_armv5>True</option_android_arch_armv5>
     <option_android_arch_armv7>True</option_android_arch_armv7>
     <option_android_arch_mips>True</option_android_arch_mips>
@@ -25,7 +25,7 @@
     <option_android_flurry_enable>0</option_android_flurry_enable>
     <option_android_flurry_id></option_android_flurry_id>
     <option_android_google_analytics_enable>0</option_android_google_analytics_enable>
-    <option_android_google_play>false</option_android_google_play>
+    <option_android_google_play>0</option_android_google_play>
     <option_android_google_play_id></option_android_google_play_id>
     <option_android_google_tracking_id></option_android_google_tracking_id>
     <option_android_iap_suppress_toast>0</option_android_iap_suppress_toast>
@@ -34,20 +34,20 @@
     <option_android_icon_36>Configs\Default\android\icons\icon36.png</option_android_icon_36>
     <option_android_icon_48>Configs\Default\android\icons\icon48.png</option_android_icon_48>
     <option_android_icon_72>Configs\Default\android\icons\icon72.png</option_android_icon_72>
-    <option_android_inmobi_enable>false</option_android_inmobi_enable>
+    <option_android_inmobi_enable>0</option_android_inmobi_enable>
     <option_android_inmobi_id></option_android_inmobi_id>
-    <option_android_inmobi_test_enable>false</option_android_inmobi_test_enable>
+    <option_android_inmobi_test_enable>0</option_android_inmobi_test_enable>
     <option_android_install_location>auto</option_android_install_location>
     <option_android_interpolate>-1</option_android_interpolate>
     <option_android_licensing_enable>0</option_android_licensing_enable>
     <option_android_licensing_key></option_android_licensing_key>
     <option_android_major_version>1</option_android_major_version>
     <option_android_minor_version>0</option_android_minor_version>
-    <option_android_mobage>false</option_android_mobage>
+    <option_android_mobage>0</option_android_mobage>
     <option_android_mobage_appkey></option_android_mobage_appkey>
     <option_android_mobage_extension_location></option_android_mobage_extension_location>
     <option_android_mobage_key></option_android_mobage_key>
-    <option_android_mobage_sandbox>false</option_android_mobage_sandbox>
+    <option_android_mobage_sandbox>0</option_android_mobage_sandbox>
     <option_android_mobage_secret></option_android_mobage_secret>
     <option_android_mobage_version></option_android_mobage_version>
     <option_android_orient_landscape>true</option_android_orient_landscape>
@@ -60,7 +60,7 @@
     <option_android_permission_flags>8</option_android_permission_flags>
     <option_android_pocketchange_enable>0</option_android_pocketchange_enable>
     <option_android_pocketchange_id></option_android_pocketchange_id>
-    <option_android_pocketchange_test_enable>false</option_android_pocketchange_test_enable>
+    <option_android_pocketchange_test_enable>0</option_android_pocketchange_test_enable>
     <option_android_set_device_id></option_android_set_device_id>
     <option_android_splash_png>Configs\Default\android\splash.png</option_android_splash_png>
     <option_android_texture_page>1024</option_android_texture_page>
@@ -79,7 +79,7 @@
     <option_freeze>false</option_freeze>
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
-    <option_fullscreen>False</option_fullscreen>
+    <option_fullscreen>True</option_fullscreen>
     <option_gameguid>{F2B9BEDD-A7F9-464B-91A1-ADF2EEB88904}</option_gameguid>
     <option_gameid>831120582</option_gameid>
     <option_haptic_effects>0</option_haptic_effects>
@@ -103,8 +103,8 @@
     <option_html5_index>-1</option_html5_index>
     <option_html5_interpolate>-1</option_html5_interpolate>
     <option_html5_jsprepend></option_html5_jsprepend>
-    <option_html5_loadingbar></option_html5_loadingbar>
-    <option_html5_outputdebugtoconsole>false</option_html5_outputdebugtoconsole>
+    <option_html5_loadingbar>-1</option_html5_loadingbar>
+    <option_html5_outputdebugtoconsole>False</option_html5_outputdebugtoconsole>
     <option_html5_outputname>index.html</option_html5_outputname>
     <option_html5_scale>-1</option_html5_scale>
     <option_html5_splash_png>Configs\Default\html5\splash.png</option_html5_splash_png>
@@ -137,9 +137,9 @@
     <option_ios_icon_57>Configs\Default\ios\icons\icon57.png</option_ios_icon_57>
     <option_ios_icon_72>Configs\Default\ios\icons\icon72.png</option_ios_icon_72>
     <option_ios_icon_76>Configs\Default\ios\icons\icon76.png</option_ios_icon_76>
-    <option_ios_inmobi_enable>false</option_ios_inmobi_enable>
+    <option_ios_inmobi_enable>0</option_ios_inmobi_enable>
     <option_ios_inmobi_id></option_ios_inmobi_id>
-    <option_ios_inmobi_test_enable>false</option_ios_inmobi_test_enable>
+    <option_ios_inmobi_test_enable>0</option_ios_inmobi_test_enable>
     <option_ios_interpolate>-1</option_ios_interpolate>
     <option_ios_ipad_retina_splash_png>Configs\Default\ios\iPadRetinasplash.png</option_ios_ipad_retina_splash_png>
     <option_ios_ipad_splash_png>Configs\Default\ios\iPadsplash.png</option_ios_ipad_splash_png>
@@ -199,12 +199,12 @@
     <option_noborder>false</option_noborder>
     <option_nobuttons>false</option_nobuttons>
     <option_noscreensaver>true</option_noscreensaver>
-    <option_ouya_packaging>false</option_ouya_packaging>
+    <option_ouya_packaging>0</option_ouya_packaging>
     <option_priority>0</option_priority>
     <option_quitkey>true</option_quitkey>
     <option_resolution>0</option_resolution>
     <option_savekey>true</option_savekey>
-    <option_scale>-1</option_scale>
+    <option_scale>0</option_scale>
     <option_scaleprogress>true</option_scaleprogress>
     <option_screenkey>True</option_screenkey>
     <option_screenshotkey>true</option_screenshotkey>
@@ -217,7 +217,7 @@
     <option_textureGroup0_nocropping>0</option_textureGroup0_nocropping>
     <option_textureGroup0_parent>&lt;none&gt;</option_textureGroup0_parent>
     <option_textureGroup0_scaled>0</option_textureGroup0_scaled>
-    <option_textureGroup0_targets>$7fffffffffffffff</option_textureGroup0_targets>
+    <option_textureGroup0_targets>9223372036854775807</option_textureGroup0_targets>
     <option_textureGroup_count>1</option_textureGroup_count>
     <option_textureGroups0>Default</option_textureGroups0>
     <option_tizen_app_id>http://yourdomain/FI- RPG</option_tizen_app_id>
@@ -258,7 +258,7 @@
     <option_win8_certificate_location>Windows8_TemporaryKey.pfx</option_win8_certificate_location>
     <option_win8_display_name>FI- RPG</option_win8_display_name>
     <option_win8_internet_capable>0</option_win8_internet_capable>
-    <option_win8_interpolate>true</option_win8_interpolate>
+    <option_win8_interpolate>-1</option_win8_interpolate>
     <option_win8_landscape_allowed>-1</option_win8_landscape_allowed>
     <option_win8_landscape_flipped_allowed>-1</option_win8_landscape_flipped_allowed>
     <option_win8_logo>Configs\Default\Windows8\logos\logo150.png</option_win8_logo>
